@@ -1,0 +1,22 @@
+header{
+
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(221, 142, 142), rgb(224, 152, 152));
+    
+}
+#logo{
+    width: 3%;
+    height: 2px;
+
+}
+#im{
+    width: 50px;
+    height: 100px;
+    float: right;
+    border-radius: 80%;
+}
+
+#h1{
+    float: left;
+}
